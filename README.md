@@ -32,4 +32,8 @@ With an unwavering commitment to innovation and an insatiable thirst for pushing
 
 Stay tuned for more exciting updates and witness greatness unfold before your very eyes. Let's shape the future of finance and technology, one groundbreaking project at a time.
 
-
+My contact:
+Discord - working(dvlaviosin), general(vlaviosin)
+Twitter - https://twitter.com/d_vlaviosin
+Telegram - https://t.me/Vlaviosin
+email - danyavlaviosin@gmail.com
