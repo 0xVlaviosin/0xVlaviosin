@@ -32,6 +32,8 @@ Cascadia: Hybrid layer-1 appchain building incentive layers for distributed netw
 
 Gear: Protocol is a Substrate-based smart-contract platform.
 
+Chainflip: On a mission to displace the centralised exchange by enabling cross chain swaps, with extremely low slippage.
+
 With an unwavering commitment to innovation and an insatiable thirst for pushing the boundaries, I strive to contribute to the advancement of the crypto landscape. Join me on this remarkable journey as we explore the limitless potential of decentralized technologies together!
 
 Stay tuned for more exciting updates and witness greatness unfold before your very eyes. Let's shape the future of finance and technology, one groundbreaking project at a time.
